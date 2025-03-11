@@ -1,160 +1,160 @@
 [[H3]]
 arch = "aarch64"
-git-tree-sha1 = "5fda06303b59f32df816c53d48b3d10eaf15edc8"
+git-tree-sha1 = "7d66f07a110552a5142f9323476e93fa16dcaf28"
 os = "macos"
 
     [[H3.download]]
-    sha256 = "a8250d05bc0938e8ed14777d2d362fcaf58a0e907095b046dd5204a245934aee"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "8063ec0692d7a6f76fdfdd318650473f77158619d3eeb93ca7f227b814023a6a"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.aarch64-apple-darwin.tar.gz"
 [[H3]]
 arch = "aarch64"
-git-tree-sha1 = "ab0059aa4aabee18ed5fddd408ba7d7c7ecec1a4"
+git-tree-sha1 = "5db02ea7a89ba5e3f20d87d2ef0ae6eb7f9491ea"
 libc = "glibc"
 os = "linux"
 
     [[H3.download]]
-    sha256 = "be6d3848f3ec260d52ada1018c6f67fd5c956962104ed29a4958a23870e56b48"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "fd17a7137b60024db89f556edd7b48f9926e49ebde8a19d3b23517380251658f"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.aarch64-linux-gnu.tar.gz"
 [[H3]]
 arch = "aarch64"
-git-tree-sha1 = "1646e8e32c4e4cfc2543f5f01a5afb70019f132c"
+git-tree-sha1 = "d2610c3b7d93bf13c2da2c6c10e8834bec5cf18b"
 libc = "musl"
 os = "linux"
 
     [[H3.download]]
-    sha256 = "5c23105e8268f69a23168ee8a6793dfcc5bf1353395630a817b70f81dd5504c8"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.aarch64-linux-musl.tar.gz"
+    sha256 = "286ef40e1e2357d5da99085c2981478c8584282a01bd035b63edfc69f29f08e3"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.aarch64-linux-musl.tar.gz"
 [[H3]]
 arch = "aarch64"
-git-tree-sha1 = "b185887df860a6079d68d5df812b475caa80b084"
+git-tree-sha1 = "f4692fba24f268eff90b2a10e91c704206cd16c3"
 os = "freebsd"
 
     [[H3.download]]
-    sha256 = "ed05267702daec72da3e72a0965d6e030672b0d0f66e3f3a388ea3ec2923cd4d"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "a72836bb03c62c8f6a2d610536905e540b1cc1985bd16823cf2669fcfdca2a81"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.aarch64-unknown-freebsd.tar.gz"
 [[H3]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "00cbcbd8427394718d867f125618a964a456ad7c"
+git-tree-sha1 = "e7a7fd1615e7f938cbf1f76a825a580a7d3cc249"
 libc = "glibc"
 os = "linux"
 
     [[H3.download]]
-    sha256 = "2393051dbcb6702fc94113e42fdeacbd55a18b5fb9792f02fe65e44e4e12887c"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "1304072475eae0ca5fb9cc80aa785e5656ccb0486d66171e666ee22deb60e719"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.armv6l-linux-gnueabihf.tar.gz"
 [[H3]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9cdd7dd9a674a0dbf74bc169c0f144073c1d6eb7"
+git-tree-sha1 = "6c6df64487ac5344d64ba01eec851f1133cde419"
 libc = "musl"
 os = "linux"
 
     [[H3.download]]
-    sha256 = "0944af12d220ba1eb1a29c6ef91813ca71cce26465e03651659c3b2f4e7d509f"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "30748132f222c6d93ee3f2195b07591201ef9cd9183b0db6b226a69ef1787345"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.armv6l-linux-musleabihf.tar.gz"
 [[H3]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "98f4574da0248f8634cfb2ea44c204c4fecc4a6d"
+git-tree-sha1 = "e6f377e9442f0ca8501720b6ee671f12b772e92a"
 libc = "glibc"
 os = "linux"
 
     [[H3.download]]
-    sha256 = "e68d65edac7921941eac80e72e2df671b838841f2b2d3407253cf629600ace6e"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "1cddd9cc65ebca5ad5c7f12fdc16defdd669ed0094c3b6b8d49ac9fa3bd5ceb5"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.armv7l-linux-gnueabihf.tar.gz"
 [[H3]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "9f1b0515191a9a5aa84dd47cba5e964f71788793"
+git-tree-sha1 = "4dc26e26163b5cd7dc2e4d2b71069a11aaedd6d1"
 libc = "musl"
 os = "linux"
 
     [[H3.download]]
-    sha256 = "b9c5f9bf6d1a47f601495549316a8bf98d7ae69a1a7fdf0e582e35a60d1bec6a"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "136caabb64ce41dca6c6067f9c09a2e3f1d10eaecee846230dc183109c5266e2"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.armv7l-linux-musleabihf.tar.gz"
 [[H3]]
 arch = "i686"
-git-tree-sha1 = "af5a16d40b8bfdeabb9bea88d2abdc63f91a8d52"
+git-tree-sha1 = "239799e9dcd93b3765147992a807be468f65716b"
 libc = "glibc"
 os = "linux"
 
     [[H3.download]]
-    sha256 = "11102dfd4771ba721cc66f83c9b63b795e03534b2c43e89f9424e765cf540b09"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.i686-linux-gnu.tar.gz"
+    sha256 = "a8c97d6afed0270b2ba6a98f68414c995250b6ceb5cf4a3c739170b051495097"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.i686-linux-gnu.tar.gz"
 [[H3]]
 arch = "i686"
-git-tree-sha1 = "755373e4072af2273b037e921d3385d3f695e59a"
+git-tree-sha1 = "58a6b9dc9e19b7082c2247733f2dbb10a5bdb688"
 libc = "musl"
 os = "linux"
 
     [[H3.download]]
-    sha256 = "3b1bbcd2cbdb18f5c3f0be3df05ab8ea048279b41db13ed520080ed2786b8f0c"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.i686-linux-musl.tar.gz"
+    sha256 = "661a924d08b8b9aa4bd4c15dc640aa65122078e9bec01421d4aabdd11ffcbdee"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.i686-linux-musl.tar.gz"
 [[H3]]
 arch = "i686"
-git-tree-sha1 = "2e762cf4b5b69a6e4d48de807052a64345f22d42"
+git-tree-sha1 = "cbf8163cf4270a188efb2b6b0283bd64c8261173"
 os = "windows"
 
     [[H3.download]]
-    sha256 = "a61f149c38b91c0cdbf942227f2ab6767d74441a821134e1999546d38bd28d00"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.i686-w64-mingw32.tar.gz"
+    sha256 = "f5e60a8bd09f91819159510e83458decd302f7e962724e71970d83b16cb56f86"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.i686-w64-mingw32.tar.gz"
 [[H3]]
 arch = "powerpc64le"
-git-tree-sha1 = "fea882fd203720914360b26b6613b25c0e287a8a"
+git-tree-sha1 = "1b916337a4da936268734c4295807b15b490fd46"
 libc = "glibc"
 os = "linux"
 
     [[H3.download]]
-    sha256 = "894447200818952fe6ea16200e551a703296223c0ac5e596a3d476896396e460"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "358a6d05be74c0506cc28cc1f77cc7577fe87cd97b282fde3ec708a1bb3cced6"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.powerpc64le-linux-gnu.tar.gz"
 [[H3]]
 arch = "riscv64"
-git-tree-sha1 = "e01c5c1adf72d3166f1b3311930423ba9c8db4e0"
+git-tree-sha1 = "ee9356378346b00e9e12696e4f4adf48dc4dec93"
 libc = "glibc"
 os = "linux"
 
     [[H3.download]]
-    sha256 = "ac6dcb21d8e4daf3c111a0f745e78f4637e4e803590d762cff1b79cea840c79a"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "f20c0c254c2b328f9c0ced28678a2957a7497fe83daabfbc726cd139325cb433"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.riscv64-linux-gnu.tar.gz"
 [[H3]]
 arch = "x86_64"
-git-tree-sha1 = "60e7e48bb43ce059dee6884cbb26184b6d718b48"
+git-tree-sha1 = "54c84934ffdd9bc6bf1b5f146fcc98fb84014dd7"
 os = "macos"
 
     [[H3.download]]
-    sha256 = "927eb73f2892ffdf2f132228d5aec84fcbf2b9f077e2a619e319af5d4b8604dd"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "8dfb67fa405835cca9c322b655460c175e39b448fc6abada60e2cde1a18fa6d3"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.x86_64-apple-darwin.tar.gz"
 [[H3]]
 arch = "x86_64"
-git-tree-sha1 = "236fc30c6c879a97a179f653d5323366d79b81dc"
+git-tree-sha1 = "d126aaeb15904e8f6452caba53f54099d4cf213d"
 libc = "glibc"
 os = "linux"
 
     [[H3.download]]
-    sha256 = "808eb6e6bd9515997ae5b9dd36549df84602bcde4ca1336611e831204698d779"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "2ed6b09985bbc15b79538f48e8775699bfb858faac7a65d2f92541480a508ab6"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.x86_64-linux-gnu.tar.gz"
 [[H3]]
 arch = "x86_64"
-git-tree-sha1 = "65d31260dd2d6cbc3bb03319cfaabf2695f16c4e"
+git-tree-sha1 = "7892ef95d7b002dda4280f6523b7d388600062c9"
 libc = "musl"
 os = "linux"
 
     [[H3.download]]
-    sha256 = "f61431b8aab7b34bded1c9e607ddb2399e0a1b4cb11893cff2bb8692ada1850f"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.x86_64-linux-musl.tar.gz"
+    sha256 = "1fd9ab46e2ba478903a53c18742c3927b181c8478068f4624f5ca4f2a0799867"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.x86_64-linux-musl.tar.gz"
 [[H3]]
 arch = "x86_64"
-git-tree-sha1 = "8d2832fd6598f93b60b6da8362c4dde89c0ff6c2"
+git-tree-sha1 = "0264e2808c266e1d12c921a5fbf746718afb0006"
 os = "freebsd"
 
     [[H3.download]]
-    sha256 = "7c73c29e8c4c8ace900acde4e7f47921a33a3e75a75d2cbdce54e68d71c00b87"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "134a4b28bd4983c905d9547aa2e407c5826e7f1a4251d6a407a56b231a7b25db"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.x86_64-unknown-freebsd.tar.gz"
 [[H3]]
 arch = "x86_64"
-git-tree-sha1 = "194cfd246f4b7f5569580a424d37839f866aba4a"
+git-tree-sha1 = "70fbf255d748de3698cf7ac2f9b2b5779be98c84"
 os = "windows"
 
     [[H3.download]]
-    sha256 = "62ecafec5a39d0b2958b25559a3d48adf01b196bb146a8123255af6674db854b"
-    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.0+0/H3.v4.2.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "00f5e2cfb92d7d84646903313aaf07c5c50f2ab2d14fb730ae2f268206509af0"
+    url = "https://github.com/JuliaBinaryWrappers/H3_jll.jl/releases/download/H3-v4.2.1+0/H3.v4.2.1.x86_64-w64-mingw32.tar.gz"
